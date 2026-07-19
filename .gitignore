@@ -148,4 +148,5 @@ vite.config.ts.timestamp-*
 .vite/
 >>>>>>> 566a140dbdd95ec47a94a3083fbd143b66b79dd2
 
-echo "node_modules/" >> .gitignore
+
+node_modules/
