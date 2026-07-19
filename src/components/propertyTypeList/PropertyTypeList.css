@@ -1,0 +1,38 @@
+.property-type-section {
+  padding: 20px 40px;
+}
+
+.property-type-section__title {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+
+.property-type-list {
+  display: flex;
+  gap: 20px;
+}
+
+.property-type-item {
+  flex: 1;
+  cursor: pointer;
+}
+
+.property-type-item__image {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 8px;
+}
+
+.property-type-item__name {
+  font-size: 16px;
+  font-weight: 700;
+  color: #262626;
+}
+
+.property-type-item__count {
+  font-size: 14px;
+  color: #0071c2;
+}
